@@ -1,0 +1,34 @@
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\APITeste.dll
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\APITeste.pdb
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\EntityFramework.dll
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\EntityFramework.SqlServer.dll
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\Newtonsoft.Json.dll
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\System.Net.Http.Formatting.dll
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\System.Web.Http.dll
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\System.Web.Http.WebHost.dll
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\EntityFramework.xml
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\EntityFramework.SqlServer.xml
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\Newtonsoft.Json.xml
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\System.Net.Http.Formatting.xml
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\System.Web.Http.xml
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\bin\System.Web.Http.WebHost.xml
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\obj\Debug\APITeste.csprojResolveAssemblyReference.cache
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\obj\Debug\APITeste.dll
+C:\Users\tsferreira\Documents\Visual Studio 2012\Projects\APITeste\APITeste\obj\Debug\APITeste.pdb
+C:\yuno\APITeste\APITeste\bin\APITeste.dll
+C:\yuno\APITeste\APITeste\bin\APITeste.pdb
+C:\yuno\APITeste\APITeste\bin\EntityFramework.dll
+C:\yuno\APITeste\APITeste\bin\EntityFramework.SqlServer.dll
+C:\yuno\APITeste\APITeste\bin\Newtonsoft.Json.dll
+C:\yuno\APITeste\APITeste\bin\System.Net.Http.Formatting.dll
+C:\yuno\APITeste\APITeste\bin\System.Web.Http.dll
+C:\yuno\APITeste\APITeste\bin\System.Web.Http.WebHost.dll
+C:\yuno\APITeste\APITeste\bin\EntityFramework.xml
+C:\yuno\APITeste\APITeste\bin\EntityFramework.SqlServer.xml
+C:\yuno\APITeste\APITeste\bin\Newtonsoft.Json.xml
+C:\yuno\APITeste\APITeste\bin\System.Net.Http.Formatting.xml
+C:\yuno\APITeste\APITeste\bin\System.Web.Http.xml
+C:\yuno\APITeste\APITeste\bin\System.Web.Http.WebHost.xml
+C:\yuno\APITeste\APITeste\obj\Debug\APITeste.csprojResolveAssemblyReference.cache
+C:\yuno\APITeste\APITeste\obj\Debug\APITeste.dll
+C:\yuno\APITeste\APITeste\obj\Debug\APITeste.pdb
